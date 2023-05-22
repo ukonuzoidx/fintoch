@@ -1,0 +1,7 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+
+User-Agent: *
+Disallow: /*?*cf_affiliate_id=*
+Disallow: /for_domain/*
+
+Sitemap: https://www.clickfunnels.com/sitemap.xml
